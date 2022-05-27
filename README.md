@@ -1,1 +1,1 @@
-# Zuri-Assignments
+# Zuri Python Assignments
